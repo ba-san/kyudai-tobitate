@@ -2,7 +2,6 @@
 categories = ["コロナ"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
 image = "images/masonary-post/post-8.jpg"
 tags = ["留学", "統計"]
 title = "コロナ下での活動について-最新情報"
