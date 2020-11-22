@@ -2,7 +2,7 @@
 title: About
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-image: images/author.jpg
+image: images/kyudai_ent.jpg
 
 ---
 このグループは九州大学の学生・卒業生かつ，トビタテ留学JAPANのプログラムに参加した方々が，トビタテ終了後も交流できるようにすることを目的とした，学生主体で運営しているグループです．現在のところ，このグループの活用法として以下のようなものを考えています．
