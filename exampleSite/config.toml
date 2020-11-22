@@ -82,9 +82,3 @@ url = "https://www.facebook.com/groups/kyudaitobitatealumni"
 [[params.social]]
 icon = "ti-twitter-alt"
 url = "#"
-[[params.social]]
-icon = "ti-linkedin"
-url = "#"
-[[params.social]]
-icon = "ti-github"
-url = "#"
