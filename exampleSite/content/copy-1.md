@@ -10,6 +10,8 @@ type = "post"
 +++
 シード代表の船橋力(ふなばし ちから)をプロジェクトディレクター[\[3\]](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%82%BF%E3%83%86!%E7%95%99%E5%AD%A6JAPAN#cite_note-3)とする官民協働海外留学創出事業である。[2020年](https://ja.wikipedia.org/wiki/2020%E5%B9%B4 "2020年")をターゲットイヤーとして日本人の海外留学生（キャンペーン開始時点で大学生6万人、高校生3万人）を倍増させることを目的としている[\[2\]](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%82%BF%E3%83%86!%E7%95%99%E5%AD%A6JAPAN#cite_note-about-2)。
 
+***
+
 [2013年](https://ja.wikipedia.org/wiki/2013%E5%B9%B4 "2013年")10月29日にキャンペーン名称とロゴ・スローガンが発表さシード代表の船橋力(ふなばし ちから)をプロジェクトディレクター[\[3\]](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%82%BF%E3%83%86!%E7%95%99%E5%AD%A6JAPAN#cite_note-3)とする官民協働海外留学創出事業である。[2020年](https://ja.wikipedia.org/wiki/2020%E5%B9%B4 "2020年")をターゲットイヤーとして日本人の海外留学生（キャンペーン開始時点で大学生6万人、高校生3万人）を倍増させることを目的としている[\[2\]](https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%93%E3%82%BF%E3%83%86!%E7%95%99%E5%AD%A6JAPAN#cite_note-about-2)。[2013年](https://ja.wikipedia.org/wiki/2013%E5%B9%B4 "2013年")10月29日にキャンペーン名称とロゴ・スローガンが発表さiatis unde omnis iste natus error sit voluptatem accusantium doloremque
 laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
