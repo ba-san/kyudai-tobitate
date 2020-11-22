@@ -2,7 +2,6 @@
 categories = ["相談会"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
 image = "images/featured-post/post-1.jpg"
 tags = ["留学", "相談会"]
 title = "留学相談会の開催2"
