@@ -5,4 +5,6 @@ description: This is meta description
 image: images/contact.jpg
 
 ---
-所属などを記入の上，送信してください．なお，返信までには時間がかかる場合があります．
+名前とメールアドレス，reCAPTCHAを記入の上，送信してください．送信に成功した場合はメッセージが表示されます．
+
+なお，返信までには時間がかかる場合があります．
