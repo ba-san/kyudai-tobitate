@@ -1,3 +1,14 @@
+# 保守メモ
+
+URL変えたら以下のページのURLも変更  
+https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/sidebar.html  
+https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/header.html  
+
+インスタフィードを留学生課のインスタにつなげる？  
+
+## 現状の問題
+→Read Moreの不調，ログイン機能(ログイン後のページ遷移などは自分で書かないといけない)，レイアウト，黒い画像がでる
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
 
