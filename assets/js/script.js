@@ -95,7 +95,7 @@
     });
   }, 1500);
 
-  // article reading time
+  // article reading time 要修正
   $('article').each(function () {
 
     let _this = $(this);
