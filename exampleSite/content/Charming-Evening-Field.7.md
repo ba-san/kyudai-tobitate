@@ -11,43 +11,7 @@ tags:
 - 統計
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
-
-
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
-
-![](../images/post-img.jpg)
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+本叢書は洽ねく大家の手に成るもの、或は青年の必讀書として世に傳はるものゝ中より、其内容文章共に英文の至珍とすべく、特に我青年諸氏に利益と快樂とを與ふるものを撰拔せり。  
+ 英語を學ぶに當り、文法字義を明かにし、所謂難句集に見る如き短文を攻究するの要あるは云ふまでもなしと雖も、亦可成多く一篇を成せる名家の著を讀み、英文に對する趣味を養ひ、不知不識其の豐富なる語類成句に習熟することを怠るべからず。前者は專ら學課として教師の指導に待つべきも、後者は學生諸子自ら講學の餘暇を利用して之を心掛くべきなり。著者等は親しく學生諸子に接し、教場以外獨習の助けとなるべきものゝ要求を知れり、是れ本叢書刊行の企ある所以にして、其冊子の小なるも諸子が携帶の便を計りたればなり。  
+ 直譯なるもの及び之れと密接の關係ある不完全なる和譯英字書の譯語を其儘に用うるの弊害世に知られて、英學界の呪詛となりたれども、單に代名詞、助動詞等の譯し振りを變じたるのみにして、種々の事情より此弊未だ一掃せられず、此形式的譯法は原文の意義を發揮するに於て甚だ不完全のみならず、諸子一度此習癖に染まば修學上の害測り知るべからざるものあらん。又之れと全く反對の自由なる意譯法は、單に譯文として見る時は兎に角、諸子が修學の助けとして遺憾甚だ多し。著者等は原文の成句成文を單位として其意義を十分に譯出し、邦語の語法の許す限りは原文の一語をも忽かせにせざらんことを努め、且つ譯文中に屡々原文を![※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)](https://www.aozora.gr.jp/gaiji/2-13/2-13-28.png)入して譯文との關係を示し、又其![※(「插」でつくりの縦棒が下に突き抜けている、第4水準2-13-28)](https://www.aozora.gr.jp/gaiji/2-13/2-13-28.png)入の原文は直ちに和文英譯の參考たらんことに意を用ゐたり。盖し是れ至難の業、茲には著者等の意のある所を一言し、如何に之れに成功したるかは諸子の判斷に委せんとす。  
+ 最後に諸子の注意を促さんに、原文と譯文とを對照して其意義を解したるのみに放擲せば、諸子の惱中に留まるは恐らく譯文にして原文にあらざらん、是れ英文を讀むと稱するも其實邦文を讀みたるものなり。著者等は諸子に切言す、相對照して其意義を明かにしたる後更に原文のみを數回音讀して其印象を得られんことを、且つ譯文によりて和文英譯を試みられなば頗る有益の練習となり、著者等が此微々たる盡力を最大に利益に應用するものと云ふべし。
