@@ -34,7 +34,7 @@ author_image = "images/banner-img.png"
 bio = "九州大学のトビタテ生・卒業生のためのコミュニティです．"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 九州大学トビタテ同窓会 All Rights Reserved."
-description = "This is meta description"
+description = "九州大学のトビタテ生・卒業生のためのコミュニティです．"
 email = "q.tobitate@gmail.com"
 google_analitycs_id = "G-X1JWGLE4M3"
 home = "Home"
@@ -76,6 +76,9 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+[[params.social]]
+icon = ""
+url = ""
 [[params.social]]
 icon = "ti-facebook"
 url = "https://www.facebook.com/groups/kyudaitobitatealumni"
