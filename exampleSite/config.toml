@@ -1,4 +1,4 @@
-baseurl = "https://kyudai-tobitate.org"
+baseurl = "https://kyudai-tobitate.netlify.app/"
 languageCode = "ja"
 paginate = 6
 summaryLength = "10"
