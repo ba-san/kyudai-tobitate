@@ -13,4 +13,6 @@ image: images/kyudai_ent.jpg
 
   ***
 
-なお，具体的なグループの運営方法や各種企画などは，まだ構想段階であり，アイデアやサポートしてくれるメンバーも随時募集しています．ぜひ[CONTACT](https://kyudai-tobitate.netlify.app/contact/)よりご連絡ください．
+なお，具体的なグループの運営方法や各種企画などは，まだ構想段階であり，アイデアやサポートしてくれるメンバーも随時募集しています．
+
+ぜひ[CONTACT](https://kyudai-tobitate.netlify.app/contact/)よりご連絡ください．
