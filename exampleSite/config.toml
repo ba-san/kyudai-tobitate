@@ -31,7 +31,7 @@ email = "q.tobitate@gmail.com"
 google_analitycs_id = "G-X1JWGLE4M3"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/long1.png"
 preloader = true
 search = true
 [params.cookies]
