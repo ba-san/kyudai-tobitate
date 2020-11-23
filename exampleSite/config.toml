@@ -67,8 +67,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = ""
-url = ""
+icon = "ti-linux"
+url = "#"
 [[params.social]]
 icon = "ti-facebook"
 url = "https://www.facebook.com/groups/kyudaitobitatealumni"
