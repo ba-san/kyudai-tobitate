@@ -72,6 +72,3 @@ url = "https://www.instagram.com/ku_studyabroad/"
 [[params.social]]
 icon = "ti-facebook"
 url = "https://www.facebook.com/groups/kyudaitobitatealumni"
-[[params.social]]
-icon = "ti-twitter-alt"
-url = "#"
