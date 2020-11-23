@@ -1,7 +1,7 @@
 baseurl = "https://kyudai-tobitate.netlify.app/"
 languageCode = "ja-ja"
 paginate = 6
-summaryLength = "10"
+summaryLength = "2"
 theme = "parsa-hugo"
 title = "九大トビタテ同窓会"
 [[menu.main]]
