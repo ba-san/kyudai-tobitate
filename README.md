@@ -7,7 +7,7 @@ https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/header.ht
 インスタフィードを留学生課のインスタにつなげる？  
 
 ## 現状の問題
-→Read Moreの不調，ログイン機能(ログイン後のページ遷移などは自分で書かないといけない)，レイアウト，黒い画像がでる
+→Read Moreの不調，ログイン機能(ログイン後のページ遷移などは自分で書かないといけない)
 
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
