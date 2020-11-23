@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "九大トビタテ同窓会"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Home"
 url = ""
 weight = 1
 [[menu.main]]
