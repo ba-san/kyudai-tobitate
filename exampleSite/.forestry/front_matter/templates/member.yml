@@ -1,4 +1,9 @@
 ---
 label: Member
 hide_body: false
-fields: []
+fields:
+- name: ____
+  type: text
+  config:
+    required: false
+  label: 自己紹介
