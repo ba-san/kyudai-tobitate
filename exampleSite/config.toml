@@ -17,6 +17,11 @@ weight = 2
 name = "Contact"
 url = "contact"
 weight = 3
+[[menu.main]]
+hasChildren = ""
+name = "Trial"
+url = "trial"
+weight = "4"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
