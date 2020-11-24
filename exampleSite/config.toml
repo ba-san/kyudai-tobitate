@@ -20,7 +20,7 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "福岡市西区元岡744番地"
+address = ""
 author = "九大トビタテ同窓会"
 author_image = "images/banner-img.png"
 bio = "九州大学のトビタテ生・卒業生のためのコミュニティです．"
