@@ -9,6 +9,18 @@ https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/header.ht
 ## 現状の問題
 →ログイン機能(ログイン後のページ遷移などは自分で書かないといけない)
 
+とまりぎも参考に
+
+☆九大生の紹介ページ（ブログ記事みたいに）
+
+→どうやって各自が書けるようにする？下のページが参考になる
+https://netlify-identity-example.netlify.app/
+
+申請にかかるアドバイスやTips
+
+
+実際に運用するときは，GitのページはPrivateにすること
+
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
 
