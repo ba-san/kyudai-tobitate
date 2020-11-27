@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/827bdc95-30ed-4b70-8274-ad70207f4bd1/deploy-status)](https://app.netlify.com/sites/kyudai-tobitate/deploys)
+
 # 保守メモ
 
 URL変えたら以下のページのURLも変更  
