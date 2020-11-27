@@ -26,6 +26,3 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-pages:
-- exampleSite/content/test2.md
-- exampleSite/content/trial/九大トビタテ同窓会.md

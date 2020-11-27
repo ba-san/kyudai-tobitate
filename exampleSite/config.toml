@@ -29,9 +29,9 @@ author = "九大トビタテ同窓会"
 author_image = "images/banner-img.png"
 bio = "九州大学のトビタテ生・卒業生のためのコミュニティです．"
 contact_form_action = "#"
-copyright = "&copy; 2020 同窓会"
+copyright = "Copyright &copy; 2020 九大トビタテ同窓会 All Rights Reserved."
 description = "九州大学のトビタテ生・卒業生のためのコミュニティです．"
-email = "test q.tobitate@gmail.com"
+email = "q.tobitate@gmail.com"
 google_analitycs_id = "G-X1JWGLE4M3"
 home = "Home"
 layout = "1"
@@ -39,7 +39,7 @@ logo = "images/long1.png"
 preloader = true
 search = true
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"

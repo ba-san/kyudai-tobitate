@@ -22,11 +22,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/trial
-  label: Trial
-  create: all
-  match: "*"
-- type: directory
   path: exampleSite
   label: Configuration
   create: all
