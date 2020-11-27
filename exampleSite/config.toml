@@ -39,7 +39,7 @@ logo = "images/long1.png"
 preloader = true
 search = true
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
