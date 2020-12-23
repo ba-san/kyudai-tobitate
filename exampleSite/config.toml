@@ -10,7 +10,7 @@ name = "ホーム"
 url = ""
 weight = 1
 [[menu.main]]
-name = "About"
+name = "グループについて"
 url = "about"
 weight = 2
 [[menu.main]]
