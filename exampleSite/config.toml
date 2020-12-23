@@ -14,7 +14,7 @@ name = "グループについて"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Contact"
+name = "お問い合わせ"
 url = "contact"
 weight = 3
 [[menu.main]]
