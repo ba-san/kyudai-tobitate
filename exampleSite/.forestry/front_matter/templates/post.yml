@@ -25,6 +25,6 @@ fields:
   name: type
   label: type
   default: post
-  description: 'type: post or featured'
+  description: 'type: post, featured or intro'
 pages:
 - exampleSite/content/大場大輔.md
