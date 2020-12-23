@@ -18,7 +18,7 @@ name = "お問い合わせ"
 url = "contact"
 weight = 3
 [[menu.main]]
-name = "Trial"
+name = "学生紹介"
 url = "trial"
 weight = "4"
 [outputs]
