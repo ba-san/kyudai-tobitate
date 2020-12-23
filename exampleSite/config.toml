@@ -19,7 +19,7 @@ url = "contact"
 weight = 3
 [[menu.main]]
 name = "学生紹介"
-url = "trial"
+url = "introstudents"
 weight = "4"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
