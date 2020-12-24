@@ -2,7 +2,7 @@
 categories = ["相談会"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-image = "images/featured-post/post-1.jpg"
+image = "/images/伊都キャンパス　椎木講堂（センターゾーン）５.jpg"
 tags = ["留学", "相談会"]
 title = "留学相談会の開催2"
 type = "featured"
