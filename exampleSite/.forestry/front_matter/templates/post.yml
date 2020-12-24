@@ -39,9 +39,21 @@ fields:
   label: season
   description: 合格期(自己紹介用)
 - name: course
-  type: text
+  type: select
+  default: []
   config:
     required: false
+    options:
+    - 理系、複合・融合系人材
+    - 新興国
+    - 世界トップレベル大学等
+    - 多様性人材
+    - 地域人材
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: course
   description: 採択コース(自己紹介用)
 - name: destination
