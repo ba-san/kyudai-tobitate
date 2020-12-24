@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post, featured or intro'
 pages:
+- exampleSite/content/test.md
 - exampleSite/content/大場大輔.md
