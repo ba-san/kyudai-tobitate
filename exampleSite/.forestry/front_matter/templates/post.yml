@@ -35,5 +35,12 @@ fields:
     schema:
       format: markdown
   label: guui
+- name: ihihi
+  type: blocks
+  label: ihihi
+  template_types: []
+  config:
+    min: 
+    max: 
 pages:
 - exampleSite/content/大場大輔.md
