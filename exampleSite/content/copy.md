@@ -4,7 +4,7 @@ date = 2019-05-14T08:46:10Z
 description = "This is meta description"
 image = "/images/birdview_2_resized.jpg"
 tags = ["留学", "相談会"]
-title = "留学相談会の開催2"
+title = "テスト投稿２"
 type = "featured"
 
 +++
