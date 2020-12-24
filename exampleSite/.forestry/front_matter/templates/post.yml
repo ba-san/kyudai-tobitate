@@ -26,5 +26,14 @@ fields:
   label: type
   default: post
   description: 'type: post, featured or intro'
+- name: guui
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: guui
 pages:
 - exampleSite/content/大場大輔.md
