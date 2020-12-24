@@ -33,11 +33,15 @@ fields:
   label: name
   description: 名前(自己紹介用)
 - name: season
-  type: text
+  type: number
+  description: 合格期(自己紹介用．数字のみ記入)
+  default: 0
+  required: true
   config:
-    required: false
+    min: 
+    max: 
+    step: 
   label: season
-  description: 合格期(自己紹介用)
 - name: course
   type: select
   default: []
@@ -80,15 +84,5 @@ fields:
     required: false
   label: grade
   description: 留学時の学年(自己紹介用)
-- name: te
-  type: number
-  description: ''
-  default: 0
-  required: true
-  config:
-    min: 
-    max: 
-    step: 
-  label: te
 pages:
 - exampleSite/content/大場大輔.md
