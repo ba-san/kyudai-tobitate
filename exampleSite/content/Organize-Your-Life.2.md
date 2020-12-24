@@ -3,7 +3,7 @@ title: 応募者の統計的情報
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: images/featured-post/post-3.jpg
+image: "/images/qasis.jpg"
 categories:
 - 留学
 tags:
