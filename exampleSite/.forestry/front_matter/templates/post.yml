@@ -26,14 +26,29 @@ fields:
   label: type
   default: post
   description: 'type: post, featured or intro'
-- name: guui
-  type: textarea
-  default: ''
+- name: destination
+  type: text
   config:
     required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: guui
+  label: destination
+  description: 渡航先(自己紹介用)
+- name: period
+  type: text
+  config:
+    required: false
+  label: period
+  description: 期間(自己紹介用)
+- name: dept
+  type: text
+  config:
+    required: false
+  label: dept
+  description: 所属(自己紹介用)
+- name: grade
+  type: text
+  config:
+    required: false
+  label: grade
+  description: 留学時の学年(自己紹介用)
 pages:
 - exampleSite/content/大場大輔.md
