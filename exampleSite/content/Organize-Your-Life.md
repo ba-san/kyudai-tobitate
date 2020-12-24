@@ -5,7 +5,7 @@ description: This is meta description
 type: featured
 image: "/images/study_park_1_resized.jpg"
 categories:
-- 相談会
+- イベント
 tags:
 - 留学
 - 相談会
