@@ -84,5 +84,11 @@ fields:
     required: false
   label: grade
   description: 留学時の学年(自己紹介用)
+- name: facebook
+  type: text
+  config:
+    required: false
+  label: facebook
+  description: Facebookのマイページ(自己紹介用)
 pages:
 - exampleSite/content/大場大輔.md
