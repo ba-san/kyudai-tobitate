@@ -3,7 +3,7 @@ title: "[延期]留学相談会の開催"
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/_resized.jpg"
+image: "/images/center_3_resized.jpg"
 categories:
 - 相談会
 tags:
