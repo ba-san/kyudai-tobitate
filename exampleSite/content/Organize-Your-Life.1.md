@@ -3,7 +3,7 @@ title: 実践活動先の見つけ方
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/_resized.jpg"
+image: "/images/west1-4_1_resized.jpg"
 categories:
 - 実践活動
 tags:
