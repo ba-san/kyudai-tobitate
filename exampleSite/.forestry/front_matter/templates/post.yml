@@ -26,6 +26,24 @@ fields:
   label: type
   default: post
   description: 'type: post, featured or intro'
+- name: name
+  type: text
+  config:
+    required: false
+  label: name
+  description: 名前(自己紹介用)
+- name: season
+  type: text
+  config:
+    required: false
+  label: season
+  description: 合格期(自己紹介用)
+- name: course
+  type: text
+  config:
+    required: false
+  label: course
+  description: 採択コース(自己紹介用)
 - name: destination
   type: text
   config:
