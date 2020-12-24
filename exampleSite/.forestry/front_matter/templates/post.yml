@@ -80,5 +80,15 @@ fields:
     required: false
   label: grade
   description: 留学時の学年(自己紹介用)
+- name: te
+  type: number
+  description: ''
+  default: 0
+  required: true
+  config:
+    min: 
+    max: 
+    step: 
+  label: te
 pages:
 - exampleSite/content/大場大輔.md
