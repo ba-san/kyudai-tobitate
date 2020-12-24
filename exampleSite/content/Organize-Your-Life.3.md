@@ -5,7 +5,7 @@ description: This is meta description
 type: featured
 image: "/images/shiiki_4_resized.jpg"
 categories:
-- 相談会
+- その他
 tags:
 - 留学
 - 相談会
