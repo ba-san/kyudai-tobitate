@@ -21,7 +21,7 @@ https://netlify-identity-example.netlify.app/
 申請にかかるアドバイスやTips
 
 
-実際に運用するときは，GitのページはPrivateにすること
+~~実際に運用するときは，GitのページはPrivateにすること~~
 
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
