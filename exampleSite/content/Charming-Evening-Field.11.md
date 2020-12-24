@@ -3,7 +3,7 @@ title: 志望動機書の記述方法について
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: post
-image: "/images/qasis-_resized.jpg"
+image: "/images/chikushi_1_resized.jpg"
 categories:
 - 申請
 tags:
