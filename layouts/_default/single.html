@@ -24,6 +24,7 @@
         </ul>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          <h4>プロフィール概要</h4>
           <p class="mb-0">名前：{{.Params.name }}</p>
           <p class="mb-0">合格期：第{{.Params.season }}期　コース：{{.Params.course }}</p>
           <p class="mb-0">渡航先：{{.Params.destination }}</p>
@@ -32,6 +33,7 @@
           <p class="mb-0">留学時の学年：{{.Params.grade }}</p>
           <p class="mb-0">Facebookのリンク：<a href="{{.Params.facebook }}">{{.Params.facebook }}</a> </p>
           <p></p>
+          <h4>本文</h4>
           {{.Content}}
         </article>
       </div>
