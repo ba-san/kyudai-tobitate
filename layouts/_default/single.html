@@ -36,6 +36,7 @@
         </ul>
         <article class="content">
           <p>{{ site.RegularPages }}</p>
+          <p>{{ .Params.type }}</p>
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
         </article>
