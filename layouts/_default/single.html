@@ -23,8 +23,15 @@
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <article class="content">
-          <p>test test</p>
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          <p class="mb-0">名前：{{.Params.name }}</p>
+          <p class="mb-0">合格期：第{{.Params.season }}期　コース：{{.Params.course }}</p>
+          <p class="mb-0">渡航先：{{.Params.destination }}</p>
+          <p class="mb-0">渡航期間：{{.Params.period }}</p>
+          <p class="mb-0">留学時の所属：{{.Params.dept }}</p>
+          <p class="mb-0">留学時の学年：{{.Params.grade }}</p>
+          <p class="mb-0">Facebookのリンク：<a href="{{.Params.facebook }}">{{.Params.facebook }}</a> </p>
+          <p></p>
           {{.Content}}
         </article>
       </div>
@@ -35,7 +42,6 @@
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <article class="content">
-          <p>{{ .Params.type }}</p>
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
           {{.Content}}
         </article>
