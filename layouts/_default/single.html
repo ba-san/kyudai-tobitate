@@ -16,6 +16,19 @@
 <section>
   <div class="container">
     <div class="row">
+      {{ if eq site.RegularPages "Type" "intro" }}
+      <div class="col-lg-8">
+        <ul class="list-inline d-flex justify-content-between py-3">
+          <!-- <li class="list-inline-item"><i class="ti-user mr-2"></i>Post by {{site.Params.author}}</li> -->
+          <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "Jan 02, 2006" }}</li>
+        </ul>
+        <article class="content">
+          <p>test test</p>
+          <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          {{.Content}}
+        </article>
+      </div>
+      {{ else }}
       <div class="col-lg-8">
         <ul class="list-inline d-flex justify-content-between py-3">
           <!-- <li class="list-inline-item"><i class="ti-user mr-2"></i>Post by {{site.Params.author}}</li> -->
@@ -26,6 +39,7 @@
           {{.Content}}
         </article>
       </div>
+      {{ end }}
       {{partial "sidebar.html" . }}
     </div>
   </div>
