@@ -91,5 +91,6 @@ fields:
   label: facebook
   description: Facebookのマイページ(自己紹介用)
 pages:
+- exampleSite/content/vol.2.md
 - exampleSite/content/プロフィールテスト.md
 - exampleSite/content/大場大輔.md
