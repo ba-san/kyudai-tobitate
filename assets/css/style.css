@@ -90,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
 .content h4 {
   position: relative;
   padding: 1rem 2rem;
-  border-bottom: 6px solid #094;
+  border-bottom: 6px solid #edab82;
 }
 
 .content h4:before {
