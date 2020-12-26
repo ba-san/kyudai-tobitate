@@ -122,7 +122,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative;
   padding: 1rem 2rem;
   text-align: center;
-  color: #edab82;
+  color: #e48042;
   border-radius: 0 10px 10px 10px;
   background: #fdefe6;
 }
@@ -138,7 +138,7 @@ h1, h2, h3, h4, h5, h6 {
   content: '\POINT';
   color: #fff;
   border-radius: 10px 10px 0 0;
-  background: #edab82;
+  background: #e48042;
 }
 
 /* TAG end */
