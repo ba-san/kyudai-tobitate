@@ -38,13 +38,13 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h3, h4, h5, h6 {
   position: relative;
   padding: 1rem 2rem calc(1rem + 10px);
   background: #fdefe6;
 }
 
-h1, h2, h3, h4, h5, h6:before {
+h3, h4, h5, h6:before {
   position: absolute;
   top: -7px;
   left: -7px;
