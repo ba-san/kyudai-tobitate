@@ -293,7 +293,7 @@ body {
 
 .preloader .loader .dots span {
   display: block;
-  float: left;
+  /* float: left; */
   width: 16px;
   height: 16px;
   margin-left: 16px;
