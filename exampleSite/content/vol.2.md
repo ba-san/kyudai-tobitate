@@ -13,7 +13,7 @@ period = "2019/7~2020/3"
 season = 10
 tags = []
 title = "なんかいい感じのタイトルつけるVol.2"
-type = "post"
+type = "intro"
 
 +++
 
