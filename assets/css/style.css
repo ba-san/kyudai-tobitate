@@ -20,13 +20,13 @@ body {
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
-  font-size: 47px; /* original is 15 */
+  font-size: 15px; /* original is 15 */
   color: #585757;
 }
 
 p, .paragraph {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 55px;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
 }
