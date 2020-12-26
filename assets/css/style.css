@@ -37,14 +37,15 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 600;
   line-height: 1.2;
 }
+/* TAG */
 
-.content h1, .content h2, .content h3, .content h4, .content h5, .content h6 {
+.content h1 {
   position: relative;
   padding: 1rem 2rem calc(1rem + 10px);
   background: #fdefe6;
 }
 
-.content h1, .content h2, .content h3, .content h4, .content h5, .content h6:before {
+.content h1:before {
   position: absolute;
   top: -7px;
   left: -7px;
@@ -53,6 +54,87 @@ h1, h2, h3, h4, h5, h6 {
   content: '';
   border: 4px solid #000;
 }
+
+.content h2 {
+  position: relative;
+  padding: 1rem 2rem calc(1rem + 10px);
+  background: #fdefe6;
+}
+
+.content h2:before {
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 100%;
+  height: 100%;
+  content: '';
+  border: 4px solid #000;
+}
+
+.content h3 {
+  position: relative;
+  padding: 1rem 2rem calc(1rem + 10px);
+  background: #fdefe6;
+}
+
+.content h3:before {
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 100%;
+  height: 100%;
+  content: '';
+  border: 4px solid #000;
+}
+
+.content h4 {
+  position: relative;
+  padding: 1rem 2rem calc(1rem + 10px);
+  background: #fdefe6;
+}
+
+.content h4:before {
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 100%;
+  height: 100%;
+  content: '';
+  border: 4px solid #000;
+}
+
+.content h5 {
+  position: relative;
+  padding: 1rem 2rem calc(1rem + 10px);
+  background: #fdefe6;
+}
+.content h5:before {
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 100%;
+  height: 100%;
+  content: '';
+  border: 4px solid #000;
+}
+
+.content h6 {
+  position: relative;
+  padding: 1rem 2rem calc(1rem + 10px);
+  background: #fdefe6;
+}
+
+.content h6:before {
+  position: absolute;
+  top: -7px;
+  left: -7px;
+  width: 100%;
+  height: 100%;
+  content: '';
+  border: 4px solid #000;
+}
+
+/* TAG end */
 
 h1, .h1 {
   font-size: 80px;
