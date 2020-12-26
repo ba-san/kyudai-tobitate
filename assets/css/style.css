@@ -17,7 +17,7 @@ VERSION:	Versoin Number
 }
 
 body {
-  line-height: 1.5;
+  line-height: 1.7;/* original is 1.5 */
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 17px; /* original is 15 */
@@ -27,7 +27,7 @@ body {
 p, .paragraph {
   font-weight: 400;
   font-size: 17px; /* original is 15 */
-  line-height: 1.5;
+  line-height: 1.7;/* original is 1.5 */
   font-family: "Open Sans", sans-serif;
 }
 
