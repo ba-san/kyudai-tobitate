@@ -91,6 +91,7 @@ fields:
   label: facebook
   description: Facebookのマイページ(自己紹介用)
 pages:
+- exampleSite/content/google.md
 - exampleSite/content/vol.2.md
 - exampleSite/content/大場大輔.md
 - "exampleSite/content/留学って-お金がかかる-トビタった人の家計簿を覗き見\U0001F440.md"
