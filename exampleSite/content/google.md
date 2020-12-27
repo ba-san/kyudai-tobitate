@@ -63,3 +63,7 @@ type = "post"
 #### **画像について**
 
 最後に，画像について説明します．
+
+![](https://lh4.googleusercontent.com/aDZ__VhUCh_R9EiZwwCxzrJFDUMi8QTUe5m4eO7w8ptXZzwTnXD18vU1oTfo-opqwNU1nAiWZ0oJPqpKBnVpOjYnMSPZSmegz4tsS_1y5JJPdMOsbWQlXTz06YbWnRgqr0xDYKNB =223x260)
+
+![](https://lh4.googleusercontent.com/aDZ__VhUCh_R9EiZwwCxzrJFDUMi8QTUe5m4eO7w8ptXZzwTnXD18vU1oTfo-opqwNU1nAiWZ0oJPqpKBnVpOjYnMSPZSmegz4tsS_1y5JJPdMOsbWQlXTz06YbWnRgqr0xDYKNB =325x378)
