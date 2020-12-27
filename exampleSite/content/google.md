@@ -50,7 +50,7 @@ $$この内部は引用$$
 
 表示形式＞段落スタイル＞見出し，からヘッダを設定することができます．
 
-![test](https://lh3.googleusercontent.com/pw/ACtC-3ctMqR-2yoU_zGGMgFhNl1JVCZ6YmMKg19MNPmgJyfjxEdwgZBVzOjxD_jHD3NF6epiZrYzYUuPyI-Ona6BqEmR926SCyUyVG9CaJW_giTsyMzSzhYLNLFAjjZGzvS4rQs3-i6Ba6Sj75nvLSUTppk=w473-h554-no?authuser=2)
+![](/images/screenshot-from-2020-12-27-18-19-37.png)
 
 **見出しは，見出し4から見出し6の中から使ってください（見出し1から見出し3は使わないでください）．**
 
@@ -66,8 +66,8 @@ $$この内部は引用$$
 
 #### **画像について**
 
-最後に，画像について説明します．サムネイルの画像はページ上部で固定なのですが，それ以外の画像は記事内の任意の場所に貼り付けることができます．トリミングや画像サイズの変更も自由にしていただいて構いません．
+最後に，画像について説明します．サムネイルの画像はページ上部で固定なのですが，それ以外の画像は記事内の任意の場所に貼り付けることができます．ただし，トリミングや画像サイズの変更はGoogleドキュメント上では行うことができません．(トリミング・サイズ変更を行いたい場合は，画像そのものを[こうしたサイト](https://www.bannerkoubou.com/photoeditor/cut/)で処理して，処理したものをGoogleドキュメントにアップロードしてください．)
 
-![](https://lh4.googleusercontent.com/aDZ__VhUCh_R9EiZwwCxzrJFDUMi8QTUe5m4eO7w8ptXZzwTnXD18vU1oTfo-opqwNU1nAiWZ0oJPqpKBnVpOjYnMSPZSmegz4tsS_1y5JJPdMOsbWQlXTz06YbWnRgqr0xDYKNB =231x268/view?usp=sharing)
+![](/images/l3puhq2yrkbmw5n1609063343_1609063354.jpg)
 
 なお，画像はPC上のフォルダから，そのままドキュメント上にドラッグして任意の位置に貼り付けてください．注意点として，画像を貼り付けた部分の左右のスペースに文字を入り込ませることはできないことに気をつけてください．
