@@ -50,7 +50,7 @@ $$この内部は引用$$
 
 表示形式＞段落スタイル＞見出し，からヘッダを設定することができます．
 
-![test](https://lh3.googleusercontent.com/oxGQ8SOyvfghB5avK2rytLlM8zUUlGRlDCl4qZK3I1mfXy0o2jZiBarC9BcZeNOoQ9L_yWmhKYMcDJUky_CPu1UTTGgvWlLNhaYhhuAxyi130sde__AJZzXxoAwfItKilr0JOcLc =512x299)
+![test](https://lh3.googleusercontent.com/pw/ACtC-3ctMqR-2yoU_zGGMgFhNl1JVCZ6YmMKg19MNPmgJyfjxEdwgZBVzOjxD_jHD3NF6epiZrYzYUuPyI-Ona6BqEmR926SCyUyVG9CaJW_giTsyMzSzhYLNLFAjjZGzvS4rQs3-i6Ba6Sj75nvLSUTppk=w473-h554-no?authuser=2)
 
 **見出しは，見出し4から見出し6の中から使ってください（見出し1から見出し3は使わないでください）．**
 
