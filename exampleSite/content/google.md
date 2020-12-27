@@ -50,7 +50,7 @@ $$この内部は引用$$
 
 表示形式＞段落スタイル＞見出し，からヘッダを設定することができます．
 
-![](https://lh3.googleusercontent.com/oxGQ8SOyvfghB5avK2rytLlM8zUUlGRlDCl4qZK3I1mfXy0o2jZiBarC9BcZeNOoQ9L_yWmhKYMcDJUky_CPu1UTTGgvWlLNhaYhhuAxyi130sde__AJZzXxoAwfItKilr0JOcLc =512x299)
+![test](https://lh3.googleusercontent.com/oxGQ8SOyvfghB5avK2rytLlM8zUUlGRlDCl4qZK3I1mfXy0o2jZiBarC9BcZeNOoQ9L_yWmhKYMcDJUky_CPu1UTTGgvWlLNhaYhhuAxyi130sde__AJZzXxoAwfItKilr0JOcLc =512x299)
 
 **見出しは，見出し4から見出し6の中から使ってください（見出し1から見出し3は使わないでください）．**
 
@@ -68,6 +68,6 @@ $$この内部は引用$$
 
 最後に，画像について説明します．サムネイルの画像はページ上部で固定なのですが，それ以外の画像は記事内の任意の場所に貼り付けることができます．トリミングや画像サイズの変更も自由にしていただいて構いません．
 
-![](https://lh4.googleusercontent.com/aDZ__VhUCh_R9EiZwwCxzrJFDUMi8QTUe5m4eO7w8ptXZzwTnXD18vU1oTfo-opqwNU1nAiWZ0oJPqpKBnVpOjYnMSPZSmegz4tsS_1y5JJPdMOsbWQlXTz06YbWnRgqr0xDYKNB =231x268)
+![test](https://lh4.googleusercontent.com/aDZ__VhUCh_R9EiZwwCxzrJFDUMi8QTUe5m4eO7w8ptXZzwTnXD18vU1oTfo-opqwNU1nAiWZ0oJPqpKBnVpOjYnMSPZSmegz4tsS_1y5JJPdMOsbWQlXTz06YbWnRgqr0xDYKNB =231x268)
 
 なお，画像はPC上のフォルダから，そのままドキュメント上にドラッグして任意の位置に貼り付けてください．注意点として，画像を貼り付けた部分の左右のスペースに文字を入り込ませることはできないことに気をつけてください．
