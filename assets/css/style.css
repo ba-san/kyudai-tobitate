@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #000000;
   font-family: "hanskendrick";
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1.5; /*ori is 1.2 */
 }
 /* TAG */
 
