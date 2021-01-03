@@ -117,7 +117,6 @@ h1, h2, h3, h4, h5, h6 {
   height: 6px;
   content: '';
   background: #fdefe6;
-  padding: 1rem 2rem 3rem;
 }
 
 .content h6 {
