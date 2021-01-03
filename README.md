@@ -5,23 +5,21 @@
 URL変えたら以下のページのURLも変更  
 https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/sidebar.html  
 https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/header.html  
-
-インスタフィードを留学生課のインスタにつなげる？  
+  
 
 ## 現状の問題
 →ログイン機能(ログイン後のページ遷移などは自分で書かないといけない)
 
 とまりぎも参考に
 
-☆九大生の紹介ページ（ブログ記事みたいに）
-
-→どうやって各自が書けるようにする？下のページが参考になる
-https://netlify-identity-example.netlify.app/
-
 申請にかかるアドバイスやTips
 
 
 ~~実際に運用するときは，GitのページはPrivateにすること~~
+
+## 有料化(主にNetlify)しないとできないこと  
+独自ドメイン，HTTPS化（セキュリティ的にも重要）  
+ビルドの制限解除，Webページのプライベート化(パスワードで閲覧可能にするなど)(Netlifyの機能としての話だが)，  
 
 # Easy Setup (Hugo + Netlify + Forestry)
 Build your website with Parsa hugo theme by following this easy steps (No Coding Required)
