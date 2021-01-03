@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .content h5 {
   position: relative;
-  padding: 3rem 10rem; /* 1rem 2rem */
+  padding: 1rem 2rem;
   border-bottom: 6px solid #edab82;
 }
 
@@ -117,6 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 6px;
   content: '';
   background: #fdefe6;
+  padding: 1rem 2rem 3rem;
 }
 
 .content h6 {
