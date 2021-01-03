@@ -14,6 +14,8 @@ https://github.com/ba-san/kyudai-tobitate/blob/master/layouts/partials/header.ht
 
 申請にかかるアドバイスやTips
 
+見出しの余白→とりあえず，大した問題でもないので放置  
+
 
 ~~実際に運用するときは，GitのページはPrivateにすること~~
 
