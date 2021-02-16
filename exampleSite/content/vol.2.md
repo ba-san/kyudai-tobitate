@@ -13,7 +13,7 @@ name = "平嶋彩乃"
 period = "2019/7~2020/3"
 season = 10
 tags = []
-title = "なんかいい感じのタイトルつけるVol.2"
+title = "自分の言葉で語れる留学を。"
 type = "intro"
 
 +++
